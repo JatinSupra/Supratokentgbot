@@ -2,7 +2,7 @@
 
 ## Overview
 
-SupraToken Telegram Bot is a project designed to interact with the Supra blockchain. It allows users to mint tokens via Telegram command and utilizes the Supra SDK and framework to perform blockchain transactions seamlessly.
+SupraToken Telegram Bot allows users to mint tokens via Telegram command and utilizes the Supra SDK and framework to perform blockchain transactions seamlessly.
 
 ## **Mint Tokens:** 
 Users can mint tokens by sending a `/mint` command in Telegram.
